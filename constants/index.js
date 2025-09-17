@@ -104,7 +104,7 @@ const storeInfo = {
  heading: "Where to Find Us",
  address: "Raje Shivaji Nagar , Pimpri Chinchawad , 411019",
  contact: {
-	phone: "(+91) 7057969410",
+	phone: "(+91) 7498511484",
 	email: "hello@shreyascocktails.com",
  },
 };

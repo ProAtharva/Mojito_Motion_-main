@@ -44,7 +44,7 @@ const Contact = () => {
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>+91 7057969410</p>
+		 <p>+91 7498511484</p>
 		 <p>contact@mojitomotion.com</p>
 		</div>
 		
